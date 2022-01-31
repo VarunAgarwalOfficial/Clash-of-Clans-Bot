@@ -1,4 +1,4 @@
-token = 'OTMyODg3NTA1MTg1OTUxNzk0.YeZhMQ.FDIAs5EEa_osoFoiK2Mh3oTP4i0'
+token = 'OTMyODg3NTA1MTg1OTUxNzk0.YeZhMQ.d4mM8fUDwOJkdqW0er6QAoeF_DA'
 
 import discord
 import json
